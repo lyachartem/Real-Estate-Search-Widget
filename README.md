@@ -10,4 +10,4 @@
 - Real Estate Search Widget
 
 Название шорткода:
-[real_estate_search]
+- [real_estate_search]
