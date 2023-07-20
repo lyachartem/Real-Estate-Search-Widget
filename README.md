@@ -1,16 +1,20 @@
-# smartylab-files
+#  Real-Estate-Search-Widget
 
-Описание файлов:
-- real-estate - плагин
-- smartylab - тема
-- building_fields.json - поля для ACF
-- smartylab_db.sql - база (root без пароля)
+File description:
 
-Название виджета в админке:
-- Real Estate Search Widget
+     real-estate - plugin
+     smartylab - theme
+     building_fields.json - fields for ACF
+     smartylab_db.sql - database (root without password)
 
-Название шорткода:
-- [real_estate_search]
+The name of the widget in the admin panel:
 
-После включения плагина, нужно обновить ссылки:
-- «Налаштування» -> «Постійні посилання». Натисніть кнопку «Зберегти зміни» без змін.
+     Real Estate Search Widget
+
+Shortcode name:
+
+     [real_estate_search]
+
+After enabling the plugin, you need to update the links:
+
+     "Settings" -> "Permalinks". Click the "Save Changes" button without making any changes.
